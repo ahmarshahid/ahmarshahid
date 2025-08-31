@@ -3,7 +3,12 @@
 
 <p align="center"><b>🔧 Data Engineer/Analyst | 💡 Problem Solver | ⚙️ Full Stack Developer</b></p>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ahmarshahid&data=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+<div align="center">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ahmarshahid&data=followers,repositories,stars,commits&theme=radical&hide_border=true&layout=vertical)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
+
 
 <b/>
 
