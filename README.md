@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ahmarshahid&data=followers,repositories,stars,commits&theme=radical&hide_border=true&layout=vertical)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ahmarshahid&data=followers,repositories,commits&theme=radical&hide_border=true&layout=vertical)](https://github.com/Jurredr/github-widgetbox)
 
 </div>
 
