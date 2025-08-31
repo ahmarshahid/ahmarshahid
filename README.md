@@ -12,6 +12,13 @@
 
 <b/>
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=ahmarshahid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmarshahid" />
+  <a href="https://user-badge.committers.top/pakistan/ahmarshahid">
+    <img src="https://user-badge.committers.top/pakistan/ahmarshahid.svg" alt="committers.top badge" />
+  </a>
+</div>
+
 #### Visit me:- <https://personal-portfolio-two-flax.vercel.app/>
 
 A Data Engineer/Analyst and Full-Stack Developer, passionate about combining creativity and logic to design efficient and scalable solutions. My work spans across building robust web applications and leveraging data to uncover insights that drive decisions. Currently, I’m enhancing my problem-solving skills through data structures and algorithms (DSA) while working on impactful web and data-driven projects.
@@ -20,12 +27,7 @@ A Data Engineer/Analyst and Full-Stack Developer, passionate about combining cre
 📚 Currently learning advanced algorithms, cloud computing, and backend technologies.  
 🔐 Interested in emerging technologies in Machine Learning and Artificial Intelligence.
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=ahmarshahid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmarshahid" />
-  <a href="https://user-badge.committers.top/pakistan/ahmarshahid">
-    <img src="https://user-badge.committers.top/pakistan/ahmarshahid.svg" alt="committers.top badge" />
-  </a>
-</div>
+
 
 <div align="center">
   
