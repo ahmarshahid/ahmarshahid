@@ -5,6 +5,8 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ahmarshahid&data=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
+<b/>
+
 #### Visit me:- <https://personal-portfolio-two-flax.vercel.app/>
 
 A Data Engineer/Analyst and Full-Stack Developer, passionate about combining creativity and logic to design efficient and scalable solutions. My work spans across building robust web applications and leveraging data to uncover insights that drive decisions. Currently, I’m enhancing my problem-solving skills through data structures and algorithms (DSA) while working on impactful web and data-driven projects.
