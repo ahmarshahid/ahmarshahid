@@ -131,19 +131,38 @@ A Data Engineer/Analyst and Full-Stack Developer, passionate about combining cre
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/>
 </a>
-<!-- Tableau -->
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
 
-<!-- Apache Airflow -->
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/>
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 </a>
 
-<!-- Excel -->
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/>
+<!-- scikit-learn -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+</a>
+
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/keras-io/keras-io-icon.svg" alt="keras" width="40" height="40"/>
+</a>
+
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+</a>
+
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+</a>
+
+<!-- Google Colab -->
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/colab/colab-icon.svg" alt="google colab" width="40" height="40"/>
 </a>
 
 
