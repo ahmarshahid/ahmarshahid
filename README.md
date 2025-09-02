@@ -146,24 +146,15 @@ A Data Engineer/Analyst and Full-Stack Developer, passionate about combining cre
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
 </a>
 
-<!-- Keras -->
-<a href="https://keras.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/keras-io/keras-io-icon.svg" alt="keras" width="40" height="40"/>
-</a>
 
-<!-- OpenCV -->
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</a>
+
 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
 </a>
 
 <!-- Google Colab -->
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/colab/colab-icon.svg" alt="google colab" width="40" height="40"/>
-</a>
+
 
 
 <!-- Flask -->
