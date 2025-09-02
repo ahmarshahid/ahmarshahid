@@ -114,9 +114,7 @@ A Data Engineer/Analyst and Full-Stack Developer, passionate about combining cre
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
 </a>
 
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache-spark" width="40" height="40"/>
-</a>
+
 
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
@@ -133,8 +131,9 @@ A Data Engineer/Analyst and Full-Stack Developer, passionate about combining cre
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/>
 </a>
+<!-- Tableau -->
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
 </a>
 
 <!-- Apache Airflow -->
@@ -144,8 +143,9 @@ A Data Engineer/Analyst and Full-Stack Developer, passionate about combining cre
 
 <!-- Excel -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2019.svg" alt="excel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/>
 </a>
+
 
 <!-- Flask -->
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
