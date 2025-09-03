@@ -205,7 +205,4 @@ A Data Engineer/Analyst and Full-Stack Developer, passionate about combining cre
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmarshahid&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmarshahid&theme=radical&hide_border=false" /><br/>
-
 </div>
